@@ -8,5 +8,5 @@ The system follows a two-stage approach:
 
 The goal is to provide an explainable and interactive interface for understanding AI-based medical diagnosis.
 
-## Source Code:
+## Model Source Code:
 https://github.com/CodeNelly-nelson/dr-diagnosis
