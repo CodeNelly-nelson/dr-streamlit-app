@@ -1,2 +1,9 @@
-# dr-streamlit-app
-An AI-powered Streamlit web application for diabetic retinopathy detection. The system demonstrates a two-stage deep learning pipeline combining retinal lesion segmentation and disease stage classification using fundus images.
+# Diabetic Retinopathy Detection App
+
+This project is a Streamlit-based web application that demonstrates an end-to-end deep learning pipeline for detecting diabetic retinopathy from retinal fundus images.
+
+The system follows a two-stage approach:
+1. Lesion Segmentation (U-Net-based)
+2. Disease Classification (Vision Transformer + Attention)
+
+The goal is to provide an explainable and interactive interface for understanding AI-based medical diagnosis.
