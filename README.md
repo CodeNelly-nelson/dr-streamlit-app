@@ -7,3 +7,6 @@ The system follows a two-stage approach:
 2. Disease Classification (Vision Transformer + Attention)
 
 The goal is to provide an explainable and interactive interface for understanding AI-based medical diagnosis.
+
+## Source Code:
+https://github.com/CodeNelly-nelson/dr-diagnosis
